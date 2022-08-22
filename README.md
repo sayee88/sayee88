@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,100:FFFFFF&height=200&section=header&text=%20SAY%20Github&fontColor=FE370C&fontSize=50&animation=fadeIn)
 
+</br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -13,6 +14,14 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">   
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
+</p>
+
+</br>
+</br>
+
+![SAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayee88&show_icons=true)
+    
+    
 
 <!--
 **sayee88/sayee88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
