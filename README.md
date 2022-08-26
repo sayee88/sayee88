@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,100:FFFFFF&height=200&section=header&text=%20SAY%20Github&fontColor=FE370C&fontSize=50&animation=fadeIn)
 
-</br>
-</br>
+</br></br>
+
+<div align="center">
+    <h3><b>About Me👩‍💻</b></h3>
+    <br><br>
+</div>
+
+</br></br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -22,25 +28,18 @@
 </p>
 
 
-</br>
-</br>
+</br></br>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayee88&show_icons=true" />
+</div>
+
+<br><br>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/sayee88/github-readme-stats" />
+</div>
 
 
-![SAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayee88&show_icons=true)
-
-    
-
-<!--
-**sayee88/sayee88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <a href="https://velog.io/@eunjeong"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a> -->
+ 
