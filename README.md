@@ -25,9 +25,9 @@
 </br>
 </br>
 
-<div align="center">
+
 ![SAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayee88&show_icons=true)
-</div>
+
     
 
 <!--
