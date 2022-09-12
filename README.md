@@ -4,9 +4,12 @@
 
 <div align="center">
     <h3><b>Welcome👋</b></h3>
+    <br>
+    배움의 자세와 열정적인 도전정신으로 개인의 역량을 키워나가는 개발자💪🏻
+    
 </div>
 
-<br>
+<br><br><br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
